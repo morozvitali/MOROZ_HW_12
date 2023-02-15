@@ -108,5 +108,4 @@ public class ApplicationOccurance {
         System.out.println(phonebook.find("Б"));
         System.out.println(phonebook.findAll("а"));
     }
-
 }

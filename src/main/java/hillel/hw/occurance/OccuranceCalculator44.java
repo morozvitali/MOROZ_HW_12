@@ -24,22 +24,4 @@ public class OccuranceCalculator44 {
         }
         System.out.println(dataResult);
     }
-
-    public static void main(String[] args) {
-        ArrayList <String> arrayList = new ArrayList<>();
-        arrayList.add("dog");
-        arrayList.add("dog");
-        arrayList.add("dog");
-        arrayList.add("dog");
-        arrayList.add("dog");
-        arrayList.add("fox");
-        arrayList.add("fox");
-        arrayList.add("fox");
-        arrayList.add("dog");
-        arrayList.add("dog");
-        arrayList.add("dog");
-        arrayList.add("dog");
-
-        calcOccurance (arrayList);
-    }
 }
